@@ -11,3 +11,6 @@
 打开你安装了Linux系统的计算机或者虚拟机，在终端进入打开Python，注意，ubuntu等linux发行版通常都是默认打开**Python2**，而我们要使用的是Python3，所以请去搜索如何让linux默认打开Python3吧。
 
 现在请你用Python写第一段代码，输出我们的专属咒语：“**hello world!**”吧。
+
+[1]:https://zhuanlan.zhihu.com/p/19959253?f3fb8ead20=b625b0f939e4d387bd82b2da7eeb4ed1 "萧井陌的编程入门指南"
+[2]:http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000 "廖雪峰的Python3教程"
